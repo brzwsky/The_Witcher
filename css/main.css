@@ -50,6 +50,6 @@ body {
   opacity: 5%;
   z-index: 10;
   position: absolute;
-  margin-top: 43%;
+  margin: 40% 0 5% 55%;
   cursor: grab;
 }
